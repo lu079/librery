@@ -1,0 +1,61 @@
+.color-1 {
+    color: black;
+}
+.color-2 {
+    color: white;
+}
+.color-3 {
+    color: red;
+}
+.color-4 {
+    color: orange;
+}
+.color-5 {
+    color: green;
+}
+.color-6 {
+    color: blue;
+}
+.color-7 {
+    color: skyblue;
+}
+.color-8 {
+    color:  violet;
+}
+.color-9 {
+    color: yellow;
+}
+.color-10 {
+    color: lightgreen;
+}
+/* background */
+.br-1 {
+    background: white;
+}
+.br-2 {
+    background: black;
+}
+.br-3 {
+    background: red;
+}
+.br-4 {
+    background: orange;
+}
+.br-5 {
+    background: green;
+}
+.br-6 {
+    background: blue;
+}
+.br-7 {
+    background: skyblue;
+}
+.br-8 {
+    background: violet;
+}
+.br-9 {
+    background: yellow;
+}
+.br-10 {
+    background: lightgreen;
+}
